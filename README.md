@@ -14,7 +14,7 @@ A simple  project in java.
 
 Welcome screen displays the application name, developer details, directory information and main menu.
 
-<img alt = "Welcome Screen" src = "">
+<img alt = "Welcome Screen" src = "C:\Users\Akanksha Patwa\Desktop\main\flow chart.png">
 
 The user has to select option from the user interface shown.
 
