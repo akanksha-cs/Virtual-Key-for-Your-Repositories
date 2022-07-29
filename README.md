@@ -8,7 +8,7 @@
 
 ## General Info
 
-A simple file handling project in java.
+A simple  project in java.
 
 ## Using the application
 
