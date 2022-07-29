@@ -1,5 +1,4 @@
 # Virtual-Key-for-Your-Repositories
-# LockedMe.com
 
 ## Table of Contents
 
